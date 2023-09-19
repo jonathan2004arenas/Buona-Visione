@@ -1,0 +1,48 @@
+/*
+Custom Css
+*/
+#tempaltemo_footer{
+    background: linear-gradient(rgba(122, 133, 234, 0.7), rgba(119, 188, 251, 0.7))
+}
+
+#tempaltemo_footer h2{
+    color: black;
+}
+
+#tempaltemo_footer li{
+    color: black;
+}
+
+#tempaltemo_footer li a{
+    color: black;
+}
+
+/*
+Custom Css
+*/
+.card-producto{
+    background: #Ffffff;
+    transition: 0.5s;
+}
+.card-producto:hover{
+    transform: scale(1.05);
+}
+.text-success b{
+    color: #00F0FF;
+}
+.text-muted{
+    color: black !important;
+}
+.img-fluid2{
+    height: 800px;
+    width: 800px;
+}
+
+.imagen{
+    margin-top: 100px;
+    margin-bottom: 76px;
+}
+
+.carousel-inner h1{
+    color: black;
+}
